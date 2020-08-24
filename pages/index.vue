@@ -2,6 +2,7 @@
   <div class="container">
     <div>
       <Logo />
+      <TestComponent />
       <h1 class="title">
         nuxt-storybook-static-issue
       </h1>

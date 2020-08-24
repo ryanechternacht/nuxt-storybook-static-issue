@@ -1,0 +1,9 @@
+[
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/ryan/github/nuxt-storybook-static-issue/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_4a6e6032"
+  }
+]
