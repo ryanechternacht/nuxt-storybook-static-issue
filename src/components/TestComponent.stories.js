@@ -5,7 +5,7 @@ export default {
   title: 'Image Test'
 }
 
-export const navbar = () => ({
+export const component = () => ({
   components: { TestComponent },
   template: '<test-component />'
 })
