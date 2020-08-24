@@ -1,20 +1,16 @@
 # nuxt-storybook-static-issue
 
+To report an issue against the https://github.com/nuxt-community/storybook repo concerning how the `static` directory is handled if you repoint the `src` directory.
+
 ## Build Setup
+To run nuxt (and see that it works fine)
 
-```bash
-# install dependencies
-$ yarn install
-
-# serve with hot reload at localhost:3000
-$ yarn dev
-
-# build for production and launch server
-$ yarn build
-$ yarn start
-
-# generate static project
-$ yarn generate
+```
+yarn nuxt
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+To run storybook and see that the image isn't loaded correctly
+
+```
+yarn nuxt storybook
+```
